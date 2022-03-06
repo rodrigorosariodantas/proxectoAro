@@ -1,6 +1,6 @@
 /**
  * Probas para a clase Circulo
- * profesor
+ * @author Rodrigo
  */
 package circulo;
 
@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 /**
  *
- * profesor
+ * @author Rodrigo
  */
 public class CirculoTest {
     
